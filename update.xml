@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<item>
+  <version>1.0.0.4</version>
+  <url>https://github.com/MooManisLoud/inkytest/raw/main/Inky_Setup.exe</url>
+  <changelog>https://raw.githubusercontent.com/MooManisLoud/inkytest/main/changelog</changelog>
+  <mandatory>false</mandatory>
+</item>
